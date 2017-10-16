@@ -1,0 +1,54 @@
+body {
+    display: flex;
+}
+
+div {
+    padding: 20px;
+    margin: 20px;
+    width: 49%;
+    border: 1px solid black;
+}
+
+label {
+    display: block;
+}
+
+#big {
+    margin-top: 16px;
+}
+
+#submit {
+    margin-top: 25px;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.big {
+    font-size: 2em;
+}
+
+#right_side p {
+    margin: 3px 0;
+    padding: 0;
+}
+
+a {
+    background: white;
+    padding: 5px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 15px;
+    display: block;
+    width: 60px;
+}
